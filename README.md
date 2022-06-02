@@ -37,3 +37,5 @@ This class implements the `ColorHandlerInterface` to handle the `setColor` funct
 
 # Flashing the firmware.bin
 The [espurna](https://github.com/xoseperez/espurna) documentation describes the procedure in detail. Please follow the documentation [espurna/flashing](https://github.com/xoseperez/espurna/wiki/Binaries).
+
+Eugen hat was geaendert
